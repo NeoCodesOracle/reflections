@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug
+that was introduced?
+
+    By running a diff on two files we are only shown the lines that changed,
+    thus saving us the trouble of  possible having to check every line in our
+    code.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By having the entire history of a file which we can revert to in the case
+    of unwanted changes, we are able to make changes  without fear of breaking
+    the program.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like
+Google docs does?
+
+    Manual Commit Pro: You have more control over when to  commit allowing you
+    to do so once per logical change.  Manual Commit Con: You may not always
+    choose the "right" time to commit or possible forget.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file
+separately?
+
+    Version control systems are specific to code saving. Which means often
+    times an application uses more than one file, and changes to an
+    application may require changes in multiple files, hence then need to
+    track multiple files.
+
+How can you use the commands git log and git diff to view the history of
+files?
+
+    With git log we can see all the changes that were made to the files. With
+    git diff, we can compare different versions of the file to see exactly
+    what changes were made.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    By having the ability to revert our applications to any point in time we
+    are allowed to explore and make changes freely without fear of breaking
+    our applications.
+
+Now that you have your workspace set up, what do you want to try using Git
+for?
+
+    For projects that require multiple files.
