@@ -1,1 +1,7 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+  When working on a project with a group to allow for sharing and collaborating
+  with team members. Remote repositories are specially helpful when other's 
+  work is dependant on the work we do, i.e. we are working on a part of the
+  project that is tied to other parts (more so than other parts since everything
+  in a project is tied together).
